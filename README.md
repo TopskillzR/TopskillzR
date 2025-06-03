@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a beginner in this area, hope to get guidance from all you awesome guys out there!
+I'm a beginner in this area and hope to get guidance from all you awesome guys out there!
 <!--
 **TopskillzR/TopskillzR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
